@@ -1,7 +1,3 @@
-感谢你提供的示例代码。根据这个示例，我将更新 README 以更好地展示 KVStore 库的使用方法，包括自定义存储、组合存储以及测试示例。
-
----
-
 # KVStore - Versatile Key-Value Store Library for Swift
 
 KVStore is a robust and flexible key-value store library designed for Swift, offering an elegant solution for managing user defaults, keychain storage, and various other key-value storage mechanisms with ease and type safety.
